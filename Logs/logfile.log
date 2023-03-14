@@ -1,0 +1,616 @@
+2023-02-23 12:33:49,562 :INFO : Test_001_login :------------Test_001_Login-----------------------
+2023-02-23 12:33:49,592 :INFO : Test_001_login :----------verfying homepage_title-----------------
+2023-02-23 12:34:02,263 :INFO : Test_001_login :--------------homepage_title test is passed-----------
+2023-02-23 12:35:56,435 :INFO : Test_001_login :------------Test_001_Login-----------------------
+2023-02-23 12:35:56,485 :INFO : Test_001_login :----------verfying homepage_title-----------------
+2023-02-23 12:36:04,926 :INFO : Test_001_login :--------------homepage_title test is passed-----------
+2023-02-23 12:37:45,778 :INFO : Test_001_login :------------Test_001_Login-----------------------
+2023-02-23 12:37:45,788 :INFO : Test_001_login :----------verfying homepage_title-----------------
+2023-02-23 12:37:53,891 :INFO : Test_001_login :--------------homepage_title test is passed-----------
+2023-02-23 12:38:12,418 :INFO : Test_001_login :---------Verifying Login Test--------------------
+2023-02-23 12:39:01,436 :ERROR : Test_001_login :--------login test is failed-----------------------
+2023-03-04 13:23:14,728 :INFO : Test_001_login :---------Verifying Login Test--------------------
+2023-03-04 13:24:02,992 :ERROR : Test_001_login :--------login test is failed-----------------------
+2023-03-04 16:49:14,394 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 16:49:14,444 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 17:05:27,190 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 17:05:27,330 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 17:08:36,924 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 17:08:36,974 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 17:12:40,735 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 17:12:40,755 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 17:24:28,538 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 17:24:28,578 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 17:25:01,850 :INFO : Test_002 :...Login Test-DDT is passed 
+2023-03-04 17:27:40,090 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 17:27:40,120 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 17:28:04,730 :INFO : Test_002 :...Login Test-DDT is passed 
+2023-03-04 17:39:19,326 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 17:39:19,376 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 17:39:54,150 :INFO : Test_002 :...Login Test-DDT is passed 
+2023-03-04 19:59:08,367 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 19:59:08,597 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 19:59:45,937 :INFO : Test_002 :...Login Test-DDT is passed 
+2023-03-04 20:06:27,810 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 20:06:27,990 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 20:07:05,249 :INFO : Test_002 :...Login Test-DDT is passed 
+2023-03-04 20:08:46,329 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 20:08:46,449 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 20:09:43,188 :INFO : Test_002 :...Login Test-DDT is passed 
+2023-03-04 20:11:04,960 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 20:11:04,960 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-04 20:11:37,508 :INFO : Test_002 :...Login Test-DDT is failed 
+2023-03-04 20:15:12,843 :INFO : Test_002 :------------Test_002_Login-DDT----------------------
+2023-03-04 20:15:12,903 :INFO : Test_002 :_____________Verifying Login Test--DDT__________________
+2023-03-09 12:13:25,573 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-09 12:13:25,683 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-09 12:13:31,679 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-09 12:22:58,565 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-09 12:22:58,585 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-09 12:23:07,036 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-09 12:27:20,484 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-09 12:27:20,504 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-09 12:27:29,863 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-09 12:34:47,337 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-09 12:34:47,367 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-09 12:34:54,995 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-09 12:35:11,116 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-09 12:36:04,077 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-09 16:14:53,197 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-09 16:14:53,272 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-09 16:15:31,611 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-09 16:20:15,107 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-09 16:20:15,157 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-09 16:20:58,881 :ERROR : test_addCust :----------test_addCust test is failed--------------------
+2023-03-09 16:26:42,836 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-09 16:26:42,886 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-09 16:27:09,155 :ERROR : test_DDT :...Login Test-DDT is failed 
+2023-03-09 16:28:03,400 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-09 16:28:03,401 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-09 16:28:42,051 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-09 16:29:01,593 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-09 16:29:01,593 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-09 16:29:12,023 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-09 16:29:26,292 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-09 16:30:36,636 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-09 16:37:18,109 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-09 16:37:18,169 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-09 16:37:44,768 :INFO : test_DDT :...Login Test-DDT is passed 
+2023-03-09 16:39:02,678 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-09 16:39:03,173 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-09 16:39:44,562 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-09 16:40:03,606 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-09 16:40:03,606 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-09 16:40:15,055 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-09 16:40:25,741 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-09 16:40:52,864 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-09 21:29:32,805 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-09 21:29:32,857 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-10 09:48:09,342 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-10 09:48:09,415 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-10 10:05:27,892 :INFO : test_searchCust :------------Test_003_AddCust---------------------
+2023-03-10 10:05:28,029 :INFO : test_searchCust :----------verfying test_addCust------------------------
+2023-03-10 10:08:10,009 :INFO : test_searchCust :------------Test_003_AddCust---------------------
+2023-03-10 10:08:10,209 :INFO : test_searchCust :----------verfying test_addCust------------------------
+2023-03-10 10:13:05,912 :INFO : test_searchCust :------------Test_003_AddCust---------------------
+2023-03-10 10:13:05,992 :INFO : test_searchCust :----------verfying test_addCust------------------------
+2023-03-10 10:29:57,656 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 10:29:57,706 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 10:32:02,657 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 10:32:02,685 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 10:36:23,507 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 10:36:23,597 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 10:43:15,973 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 10:43:16,034 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 10:46:35,952 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 10:46:36,014 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 10:52:01,538 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 10:52:01,582 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 11:01:24,704 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 11:01:24,743 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 11:18:42,976 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 11:18:43,289 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 11:23:18,742 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 11:23:19,122 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 11:28:15,520 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 11:28:15,603 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 11:34:52,217 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 11:34:52,360 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 11:38:32,841 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 11:38:32,915 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 11:42:12,037 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 11:42:12,145 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 12:42:31,780 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 12:42:31,815 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 12:45:09,191 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 12:45:09,221 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 12:47:00,183 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 12:47:00,223 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 12:55:25,198 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 12:55:25,960 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 12:55:44,151 :INFO : test_searchCust :----------start of searchcust test------------
+2023-03-10 12:56:36,705 :ERROR : test_searchCust :--------test_search_Cust is failed-----------------------
+2023-03-10 13:01:42,855 :INFO : test_searchCust :--------Test_004_SearchCust---------------------
+2023-03-10 13:01:42,878 :INFO : test_searchCust :----------verfying test_search_Cust------------------------
+2023-03-10 13:02:00,978 :INFO : test_searchCust :----------start of searchcust test------------
+2023-03-10 13:02:04,141 :INFO : test_searchCust :-----test_search_Cust is passed----------
+2023-03-10 13:14:15,673 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-10 13:14:15,726 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-10 13:14:33,860 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-10 13:14:36,039 :INFO : test_searchCustByemail :-----test_search_CustByemail is passed----------
+2023-03-10 13:15:46,696 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-10 13:15:46,724 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-10 13:16:00,986 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-10 17:03:41,379 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-10 17:03:41,429 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-10 17:03:56,756 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-10 17:04:02,535 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-10 17:04:56,521 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-10 17:04:56,531 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-10 17:05:03,797 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-10 17:05:14,354 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-10 17:05:30,915 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-10 17:07:32,778 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-10 17:07:32,808 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-10 17:54:23,455 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-10 17:54:23,550 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-10 17:54:38,714 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-10 17:59:46,852 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-10 17:59:46,888 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-10 18:00:00,547 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-10 18:03:49,983 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-10 18:03:50,016 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-10 18:04:05,547 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-10 18:06:41,509 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-10 18:06:41,532 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-10 18:06:54,808 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-10 22:54:27,564 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-10 22:54:27,587 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-10 22:54:50,272 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 08:49:44,207 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 08:49:44,267 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 08:49:58,852 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 08:52:26,739 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 08:52:26,757 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 08:52:41,041 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 08:55:32,716 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 08:55:32,736 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 08:55:52,145 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 08:59:35,791 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 08:59:35,874 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 08:59:54,480 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:12:26,329 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:12:26,419 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:12:43,353 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:15:58,381 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:15:58,401 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:16:13,439 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:18:06,946 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:18:06,989 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:18:20,695 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:21:45,205 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:21:45,228 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:22:00,240 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:26:53,266 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:26:53,326 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:27:12,591 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:29:23,842 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:29:23,899 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:29:38,653 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:33:18,386 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:33:18,473 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:33:35,002 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:38:48,777 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-11 09:38:48,827 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-11 09:39:43,360 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-11 09:42:22,498 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:42:22,516 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:42:42,569 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:48:09,327 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:48:09,407 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:48:25,536 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:50:22,464 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:50:22,582 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:50:37,288 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 09:56:09,855 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 09:56:09,915 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 09:56:28,184 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 10:10:13,587 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 10:10:13,645 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 10:10:33,102 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:22:18,973 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:22:19,081 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:22:37,096 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:30:34,397 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:30:34,780 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:30:53,727 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:31:11,713 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-11 11:35:07,314 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:35:07,359 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:35:21,907 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:35:34,632 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:37:26,433 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:37:26,461 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:37:40,811 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:37:51,647 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:40:00,059 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:40:00,097 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:40:14,301 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:40:25,335 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:42:45,867 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:42:45,906 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:43:03,593 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:43:14,667 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:45:49,047 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:45:49,072 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:46:03,332 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:46:14,747 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:47:30,248 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:47:30,271 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:47:44,146 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:49:51,253 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:49:51,310 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:50:09,246 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:50:22,413 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:52:30,320 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:52:30,343 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:52:43,727 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:52:53,726 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:56:04,554 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:56:04,606 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:56:20,313 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:56:31,127 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 11:58:53,207 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 11:58:53,235 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 11:59:07,478 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 11:59:19,648 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 12:01:29,122 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 12:01:29,175 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 12:01:43,619 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 12:01:57,629 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 12:07:33,650 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 12:07:33,685 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 12:08:06,215 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 12:12:19,381 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 12:12:19,411 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 12:12:33,815 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 12:12:46,545 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-11 12:15:34,809 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 12:15:35,076 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 12:15:49,385 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 12:16:18,607 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-11 12:19:16,365 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 12:19:16,383 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 12:19:30,543 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-11 12:19:43,460 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-11 16:49:53,645 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 16:49:53,660 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 16:52:03,236 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 16:52:03,256 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 17:08:54,273 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 17:08:54,353 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 17:58:43,066 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-11 17:58:43,171 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-11 18:02:47,717 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-11 18:02:47,807 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-11 18:04:54,187 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-11 18:04:54,244 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-12 08:44:52,006 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 08:44:52,108 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 08:45:07,365 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 08:45:19,427 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-12 08:47:09,008 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 08:47:09,031 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 08:47:24,273 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 08:47:36,308 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-12 08:58:54,774 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 08:58:55,222 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 08:59:14,981 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 08:59:36,835 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-12 09:01:50,071 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 09:01:50,086 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 09:02:06,469 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 09:02:20,123 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-12 10:04:36,139 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 10:04:36,192 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 10:16:39,967 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 10:16:40,029 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 10:16:57,316 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 10:17:11,471 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-12 10:22:02,497 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 10:22:02,537 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 10:22:26,396 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 10:23:05,797 :ERROR : test_updateCust :----test updatecust test is Failed
+2023-03-12 17:20:28,111 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 17:20:28,139 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 17:20:42,959 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 17:20:57,215 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-12 17:49:25,216 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 17:49:25,296 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 17:57:55,266 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 17:57:55,306 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 19:15:54,928 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-12 19:15:54,958 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-12 19:16:08,535 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-12 20:24:46,259 :INFO : test_deleteCust :--------Test_005_updateCust---------------------
+2023-03-12 20:24:46,489 :INFO : test_deleteCust :----------verfying test_updateCust------------------------
+2023-03-12 20:25:00,318 :INFO : test_deleteCust :----------start of test_updateCust test------------
+2023-03-12 20:32:00,979 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 20:32:01,093 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 20:32:22,226 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 20:39:28,790 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 20:39:28,845 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 20:39:42,287 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 20:44:18,375 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 20:44:18,407 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 20:44:32,795 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 20:48:32,390 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-12 20:48:32,422 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-12 20:49:16,884 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-12 20:51:32,082 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-12 20:51:32,112 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-12 20:51:45,233 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-12 20:51:53,641 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-12 20:53:10,566 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-12 20:53:10,566 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-12 20:53:19,697 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-12 20:53:31,159 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-12 20:54:09,664 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-12 20:54:52,198 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-12 20:54:52,198 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-12 20:55:01,914 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-12 20:55:14,352 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-12 20:55:35,417 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-12 20:59:11,610 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-12 20:59:11,643 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-12 20:59:26,106 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-12 20:59:35,800 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-12 21:01:13,769 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-12 21:01:13,824 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-12 21:01:31,060 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-12 21:01:41,365 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-12 21:02:48,424 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-12 21:02:48,464 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-12 21:03:08,075 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-12 21:03:17,029 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-12 21:04:04,308 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-12 21:04:04,318 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-12 21:04:15,604 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-12 21:04:27,486 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-12 21:05:22,316 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-12 21:08:11,025 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:08:11,060 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:08:25,961 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:11:19,126 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:11:19,156 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:11:32,977 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:15:26,302 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:15:26,366 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:15:41,176 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:18:28,804 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:18:28,921 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:18:43,312 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:28:13,934 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:28:14,054 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:28:34,832 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:33:06,381 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:33:06,428 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:33:23,450 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:37:51,177 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:37:51,254 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:38:09,430 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:41:36,656 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:41:36,705 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:41:52,718 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-12 21:42:07,556 :INFO : test_deleteCust :----test deletecust --test --is- paased---
+2023-03-12 21:43:16,213 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-12 21:43:16,263 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-12 21:43:30,074 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 08:32:33,614 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 08:32:33,654 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 08:32:47,304 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 08:33:08,045 :ERROR : test_deleteCust :----test deletecust test is Failed
+2023-03-13 08:37:34,454 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 08:37:34,487 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 08:37:47,408 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 08:40:14,193 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 08:40:14,265 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 08:40:29,365 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 08:40:46,002 :ERROR : test_deleteCust :----test deletecust test is Failed
+2023-03-13 08:44:36,122 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 08:44:36,152 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 08:44:45,035 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 08:44:55,764 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 08:45:14,568 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 09:11:58,141 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 09:11:58,198 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 09:12:13,401 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 09:12:23,458 :INFO : test_deleteCust :----test deletecust_canceled --test --is- paased---
+2023-03-13 09:14:32,841 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 09:14:32,931 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 09:14:48,912 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 09:15:03,769 :ERROR : test_deleteCust :----test deletecust test is Failed
+2023-03-13 09:37:09,514 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 09:37:09,579 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 09:37:24,624 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 09:37:39,458 :INFO : test_deleteCust :----test deletecust --test --is- paased---
+2023-03-13 09:43:23,187 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 09:43:23,231 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 09:43:36,146 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 09:45:31,230 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 09:45:31,285 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 09:45:46,325 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 09:46:02,011 :INFO : test_deleteCust :----test deletecust_canceled --test --is- paased---
+2023-03-13 09:50:02,731 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-13 09:50:02,731 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-13 09:50:21,537 :INFO : test_DDT :...Login Test-DDT is passed 
+2023-03-13 09:51:42,156 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-13 09:51:42,179 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-13 09:52:24,423 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-13 09:53:05,302 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 09:53:05,302 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 09:53:18,369 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 09:53:32,417 :INFO : test_deleteCust :----test deletecust --test --is- paased---
+2023-03-13 09:53:50,079 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 09:53:50,079 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 09:53:56,390 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 09:54:06,431 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 09:54:18,211 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 09:54:55,868 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 09:54:55,868 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 09:55:09,779 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-13 09:56:26,462 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 09:56:26,463 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 09:56:51,486 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-13 10:20:50,999 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 10:20:51,040 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 10:21:05,426 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-13 10:21:28,409 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-13 10:23:07,210 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 10:23:07,270 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 10:23:21,865 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-13 10:23:35,556 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-13 10:24:55,367 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 10:24:55,370 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 10:25:08,915 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-13 10:25:15,730 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-13 10:27:56,604 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 10:27:56,642 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 10:28:09,687 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-13 10:28:11,080 :INFO : test_searchCustByemail :-----test_search_CustByemail is passed----------
+2023-03-13 10:43:47,540 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 10:43:47,570 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 10:44:03,066 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 10:44:35,387 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 10:45:04,884 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 10:56:12,278 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-13 10:56:12,308 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-13 10:56:40,136 :INFO : test_DDT :...Login Test-DDT is passed 
+2023-03-13 10:59:57,169 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 10:59:57,639 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 11:00:11,478 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 11:00:26,041 :INFO : test_deleteCust :----test deletecust --test --is- paased---
+2023-03-13 11:00:51,233 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 11:00:51,233 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 11:00:56,161 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 11:01:08,703 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 11:01:28,871 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 11:01:59,195 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 11:01:59,195 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 11:02:12,382 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-13 11:02:17,346 :ERROR : test_searchCustByemail :--------test_search_CustByemail is failed-----------------------
+2023-03-13 11:02:54,514 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 11:02:54,515 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 11:03:11,623 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-13 11:03:25,173 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-13 14:04:08,287 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-13 14:04:08,345 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-13 14:04:52,387 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-13 14:11:30,903 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 14:11:30,936 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 14:11:49,205 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 14:12:05,495 :INFO : test_deleteCust :----test deletecust --test --is- paased---
+2023-03-13 14:16:45,406 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 14:16:45,451 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 14:16:45,456 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 14:16:45,496 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 14:27:26,728 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 14:27:26,778 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 14:27:27,408 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 14:27:27,478 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 14:27:53,589 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 14:46:24,660 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-13 14:46:24,690 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-13 14:46:45,443 :INFO : test_DDT :...Login Test-DDT is passed 
+2023-03-13 14:50:08,827 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-13 14:50:08,864 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-13 14:50:27,020 :INFO : test_DDT :...Login Test-DDT is passed 
+2023-03-13 17:06:42,808 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 17:06:42,900 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 17:06:59,669 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-13 17:07:01,957 :INFO : test_searchCustByemail :-----test_search_CustByemail is passed----------
+2023-03-13 17:12:14,700 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 17:12:14,770 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 17:12:27,702 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-13 17:12:40,587 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-13 17:15:59,771 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 17:15:59,801 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 17:16:14,042 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-13 17:16:26,389 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-13 17:30:51,741 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 17:30:52,861 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 17:30:53,906 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 17:31:12,251 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-13 17:31:12,591 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-13 17:32:18,343 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 17:32:18,343 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 17:32:54,040 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-13 17:33:47,674 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 17:34:10,449 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 17:34:10,449 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 17:34:15,586 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 17:43:54,020 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-13 17:43:54,150 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-13 17:44:08,871 :INFO : test_DDT :...Login Test-DDT is passed 
+2023-03-13 17:45:03,984 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-13 17:45:03,986 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-13 17:45:40,121 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-13 17:46:11,634 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-13 17:46:11,636 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-13 17:46:23,985 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-13 17:46:38,317 :INFO : test_deleteCust :----test deletecust --test --is- paased---
+2023-03-13 17:47:18,685 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 17:47:18,685 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 17:47:18,695 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 17:47:18,763 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 17:47:30,946 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 17:48:15,760 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 17:48:15,760 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-13 17:48:29,320 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-13 17:48:31,271 :INFO : test_searchCustByemail :-----test_search_CustByemail is passed----------
+2023-03-13 17:49:04,644 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 17:49:04,645 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 17:49:17,811 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-13 17:49:30,066 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-13 20:51:05,110 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-13 20:51:05,307 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-13 20:51:05,316 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-13 20:51:05,476 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-13 20:51:12,260 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-13 20:52:16,002 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-13 20:52:16,690 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-13 20:53:56,117 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-13 20:53:56,118 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-13 20:55:27,804 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-13 20:55:27,804 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-14 07:43:40,420 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-14 07:43:40,453 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-14 07:44:20,425 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-14 07:44:51,467 :INFO : test_deleteCust :--------Test_005_delete_Cust---------------------
+2023-03-14 07:44:51,467 :INFO : test_deleteCust :----------verfying test_delete_Cust------------------------
+2023-03-14 07:45:04,870 :INFO : test_deleteCust :----------start of test_delete_Cust test------------
+2023-03-14 07:45:19,441 :INFO : test_deleteCust :----test deletecust --test --is- paased---
+2023-03-14 07:45:40,830 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-14 07:45:40,830 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-14 07:45:40,885 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-14 07:45:40,915 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-14 07:45:51,295 :ERROR : test_login :--------login test is failed-----------------------
+2023-03-14 07:46:41,237 :INFO : test_searchCustByemail :--------Test_004_SearchCustByemail---------------------
+2023-03-14 07:46:41,238 :INFO : test_searchCustByemail :----------verfying test_search_CustByemail------------------------
+2023-03-14 07:46:58,829 :INFO : test_searchCustByemail :----------start of searchcustByemail test------------
+2023-03-14 07:47:02,257 :INFO : test_searchCustByemail :-----test_search_CustByemail is passed----------
+2023-03-14 07:47:42,385 :INFO : test_updateCust :--------Test_005_updateCust---------------------
+2023-03-14 07:47:42,385 :INFO : test_updateCust :----------verfying test_updateCust------------------------
+2023-03-14 07:47:57,524 :INFO : test_updateCust :----------start of test_updateCust test------------
+2023-03-14 07:48:10,088 :INFO : test_updateCust :----test updatecust --test --is- paased---
+2023-03-14 17:56:37,432 :INFO : test_DDT :------------Test_002_Login-DDT----------------------
+2023-03-14 17:56:37,482 :INFO : test_DDT :_____________Verifying Login Test--DDT__________________
+2023-03-14 17:56:56,596 :INFO : test_DDT :...Login Test-DDT is passed 
+2023-03-14 17:57:31,117 :INFO : test_addCust :------------Test_003_AddCust---------------------
+2023-03-14 17:57:31,125 :INFO : test_addCust :----------verfying test_addCust------------------------
+2023-03-14 17:58:09,975 :INFO : test_addCust :--------------test_addCust test is passed-----------
+2023-03-14 17:58:32,392 :INFO : test_homePage_Title :------------Test_001_Login---------------------
+2023-03-14 17:58:32,392 :INFO : test_homePage_Title :----------verfying homepage_title--------------
+2023-03-14 17:58:32,397 :INFO : test_homePage_Title :--------------homepage_title test is passed-----------
+2023-03-14 17:58:32,412 :INFO : test_login :---------Verifying Login Test--------------------
+2023-03-14 17:58:38,584 :ERROR : test_login :--------login test is failed-----------------------
