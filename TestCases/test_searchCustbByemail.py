@@ -46,12 +46,12 @@ class Test_004_SearchCustByemail(BaseClass):
         self.searchemail=sc.getsearchemail()
         # print(self.searchemail)
         # close without driver
-        if  self.searchemail == "james_pan@nopCommerce.com":
+        if  self.searchemail == "james_pan@nopCommerce.com1":
             assert True
             log.info("-----test_search_CustByemail is passed----------")
 
         else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_search_CustByemail.png")
+            # self.driver.save_screenshot(".\\Screenshots\\" + "test_search_CustByemail.png")
             log.error("--------test_search_CustByemail is failed-----------------------")
             assert False
 

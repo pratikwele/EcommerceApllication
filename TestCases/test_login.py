@@ -24,13 +24,14 @@ class Test_001_login(BaseClass):
         log=self.getlogger()
         log.info("------------Test_001_Login---------------------")
         log.info("----------verfying homepage_title--------------")
-        act_title=self.driver.title
+        self.act_title=self.driver.title
         # close withhout driver
-        if act_title=="Your store. Login" :
+        if self.act_title == "Your store. Login" :
             assert True
             log.info('--------------homepage_title test is passed-----------')
         else:
-            self.driver.save_screenshot(".\\Screenshots\\"+ "test_homepageTite.png")
+            self.screen_shot("test_homepageTite.png")
+            # self.driver.save_screenshot(".\\Screenshots\\"+ "test_homepageTite.png")
             log.error("-----home page_title is failed--------------------")
             assert False
         #  close with driver
@@ -60,15 +61,24 @@ class Test_001_login(BaseClass):
         log=self.getlogger()
         log.info("---------Verifying Login Test--------------------")
         self.loginCommon()
-        act_title=self.driver.title
-        # close without driver
-        if act_title=="from selenium.webdriver.common.by import By" :
+        self.act_title=self.driver.title
+
+        # assert act_title=="from se/lenium.webdriver.common.by import By"
+
+        # # close without driver
+        if self.act_title == "from selenium.webdriver.common.by import By" :
             assert  True
             log.info('------login test is passed----------------------')
         else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_login.png")
-            log.error("--------login test is failed-----------------------")
+
+            # self.screen_shot("test_login.png")
+            # save screenshot in screenshot folder
+            # self.driver.save_screenshot(".\\Screenshots\\" + "test_login.png")
+            log.error("--------login test is failed-------------------")
             assert  False
+
+
+
 
         # close with driver
         # if act_title=="from selenium.webdriver.common.by import By" :

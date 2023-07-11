@@ -66,5 +66,5 @@ class BaseClass:
     #     lp.setPassword(self.password)
     #     lp.clickLogin()
 
-    def screen_shot(self,name):
-        self.driver.save_screenshot(".\\Screenshots\\" + name)
+    # def screen_shot(self,name):
+    #     self.driver.save_screenshot(".\\Screenshots\\" + name)

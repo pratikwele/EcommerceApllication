@@ -253,7 +253,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 13-Mar-2023 at 17:49:37 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 16-Mar-2023 at 13:46:03 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -263,14 +263,20 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Platform</td>
         <td>Windows-7-6.1.7601-SP1</td></tr>
       <tr>
-        <td>Plugins</td>
-        <td>{"html": "3.2.0", "metadata": "2.0.4", "xdist": "3.2.1"}</td></tr>
-      <tr>
         <td>Python</td>
-        <td>3.7.9</td></tr></table>
+        <td>3.7.9</td></tr>
+      <tr>
+        <td>Tester</td>
+        <td>Pratik</td></tr>
+      <tr>
+        <td>module name</td>
+        <td>customer</td></tr>
+      <tr>
+        <td>project name</td>
+        <td>nope commerce</td></tr></table>
     <h2>Summary</h2>
-    <p>7 tests ran in 381.34 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">6 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>1 tests ran in 10730.29 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -284,87 +290,15 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="failed results-table-row">
         <tr>
           <td class="col-result">Failed</td>
-          <td class="col-name">TestCases/test_login.py::Test_001_login::test_login</td>
-          <td class="col-duration">17.01</td>
+          <td class="col-name">test_searchCustbByemail.py::Test_004_SearchCustByemail::test_searchCustByemail</td>
+          <td class="col-duration">10668.06</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">self = &lt;TestCases.test_login.Test_001_login object at 0x0000000004E95548&gt;<br/><br/>    def test_login(self):<br/>        log=self.getlogger()<br/>        log.info(&quot;---------Verifying Login Test--------------------&quot;)<br/>        self.loginCommon()<br/>        act_title=self.driver.title<br/>        # close without driver<br/>        if act_title==&quot;from selenium.webdriver.common.by import By&quot; :<br/>            assert  True<br/>            log.info(&#x27;------login test is passed----------------------&#x27;)<br/>        else:<br/>            self.driver.save_screenshot(&quot;.\\Screenshots\\&quot; + &quot;test_login.png&quot;)<br/>            log.error(&quot;--------login test is failed-----------------------&quot;)<br/>&gt;           assert  False<br/><span class="error">E           assert False</span><br/><br/>TestCases\test_login.py:69: AssertionError<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     test_login:test_login.py:59 ---------Verifying Login Test--------------------
-ERROR    test_login:test_login.py:68 --------login test is failed-----------------------<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">TestCases/test_Login_DDT.py::Test_002::test_DDT</td>
-          <td class="col-duration">61.83</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     test_DDT:test_Login_DDT.py:28 ------------Test_002_Login-DDT----------------------
-INFO     test_DDT:test_Login_DDT.py:29 _____________Verifying Login Test--DDT__________________
-INFO     test_DDT:test_Login_DDT.py:41 ...Login Test-DDT is passed<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">TestCases/test_addCust.py::Test_003_AddCust::test_addCust</td>
-          <td class="col-duration">80.29</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> ------------------------------Captured stdout call------------------------------ <br/>×
-The new customer has been added successfully.
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     test_addCust:test_addCust.py:32 ------------Test_003_AddCust---------------------
-INFO     test_addCust:test_addCust.py:33 ----------verfying test_addCust------------------------
-INFO     test_addCust:test_addCust.py:71 --------------test_addCust test is passed-----------<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">TestCases/test_deleteCust.py::Test_006_deleteCust::test_deleteCust</td>
-          <td class="col-duration">57.86</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> ------------------------------Captured stdout call------------------------------ <br/>×
-The customer has been deleted successfully.
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     test_deleteCust:test_deleteCust.py:22 --------Test_005_delete_Cust---------------------
-INFO     test_deleteCust:test_deleteCust.py:23 ----------verfying test_delete_Cust------------------------
-INFO     test_deleteCust:test_deleteCust.py:29 ----------start of test_delete_Cust test------------
-INFO     test_deleteCust:test_deleteCust.py:46 ----test deletecust --test --is- paased---<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">TestCases/test_login.py::Test_001_login::test_homePage_Title</td>
-          <td class="col-duration">34.51</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     test_homePage_Title:test_login.py:23 ------------Test_001_Login---------------------
-INFO     test_homePage_Title:test_login.py:24 ----------verfying homepage_title--------------
-INFO     test_homePage_Title:test_login.py:29 --------------homepage_title test is passed-----------<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">TestCases/test_searchCustbByemail.py::Test_004_SearchCustByemail::test_searchCustByemail</td>
-          <td class="col-duration">50.45</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> ------------------------------Captured stdout call------------------------------ <br/>row= 1
+            <div><div><img src="test_searchCustbByemail.py_Test_004_SearchCustByemail_test_searchCustByemail.png" alt="screenshot" style="width:304px;height:228px;" onclick="window.open(this.src)" align="right"/></div></div>
+            <div class="log">self = &lt;TestCases.test_searchCustbByemail.Test_004_SearchCustByemail object at 0x0000000003FD4748&gt;<br/><br/>    @pytest.mark.regression<br/>    def test_searchCustByemail(self):<br/>        self.loginCommon()<br/>        log=self.getlogger()<br/>        # self.driver.get(self.baseurl)<br/>        # lp =LoginPage(self.driver)<br/>        # lp.setUsername(self.username)<br/>        # lp.setPassword(self.password)<br/>        # lp.clickLogin()<br/>        log.info(&quot;--------Test_004_SearchCustByemail---------------------&quot;)<br/>        log.info(&quot;----------verfying test_search_CustByemail------------------------&quot;)<br/>        ac=AddCust(self.driver)<br/>        time.sleep(5)<br/>        self.explicitwait(ac.clickmenu_customer())<br/>        time.sleep(5)<br/>        self.explicitwait(ac.click_sub_menu_customer())<br/>        log.info(&quot;----------start of searchcustByemail test------------&quot;)<br/>        sc=Test_search_cust(self.driver)<br/>        sc.setEmailid_Srch_Cust()<br/>        sc.clickSearch()<br/>        self.row=sc.getLenRow()<br/>        print(&#x27;row=&#x27;,self.row)<br/>        self.col=sc.getLenCol()<br/>        print(&#x27;col=&#x27;,self.col)<br/>        self.searchemail=sc.getsearchemail()<br/>        # print(self.searchemail)<br/>        # close without driver<br/>        if  self.searchemail == &quot;james_pan@nopCommerce.com1&quot;:<br/>            assert True<br/>            log.info(&quot;-----test_search_CustByemail is passed----------&quot;)<br/>    <br/>        else:<br/>            # self.driver.save_screenshot(&quot;.\\Screenshots\\&quot; + &quot;test_search_CustByemail.png&quot;)<br/>            log.error(&quot;--------test_search_CustByemail is failed-----------------------&quot;)<br/>&gt;           assert False<br/><span class="error">E           assert False</span><br/><br/>TestCases\test_searchCustbByemail.py:56: AssertionErrorrequest = &lt;SubRequest &#x27;setup&#x27; for &lt;Function test_searchCustByemail&gt;&gt;, baseurl = &#x27;https://admin-demo.nopcommerce.com/&#x27;<br/><br/>    @pytest.fixture(scope=&quot;class&quot;)<br/>    def setup(request, baseurl=ReadConfig.getApplicationUrl()):<br/>        global driver<br/>        browser_name=request.config.getoption(&quot;browser_name&quot;)<br/>        if browser_name == &quot;chrome&quot;:<br/>            driver = webdriver.Chrome()<br/>        elif browser_name == &quot;firefox&quot;:<br/>            driver = webdriver.Firefox()<br/>        elif browser_name == &quot;IE&quot;:<br/>            print(&quot;IE driver&quot;)<br/>        else:<br/>            driver = webdriver.Chrome()<br/>    <br/>        driver.get(baseurl)<br/>        driver.maximize_window()<br/>    <br/>        request.cls.driver = driver<br/>        yield<br/>&gt;       driver.close()<br/><br/>TestCases\conftest.py:34: <br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br/>venv\lib\site-packages\selenium\webdriver\remote\webdriver.py:551: in close<br/>    self.execute(Command.CLOSE)<br/>venv\lib\site-packages\selenium\webdriver\remote\webdriver.py:440: in execute<br/>    self.error_handler.check_response(response)<br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br/><br/>self = &lt;selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000000002EE9BC8&gt;<br/>response = {&#x27;status&#x27;: 404, &#x27;value&#x27;: &#x27;{&quot;value&quot;:{&quot;error&quot;:&quot;no such window&quot;,&quot;message&quot;:&quot;Browsing context has been discarded&quot;,&quot;stacktra...ontent/marionette/server.js:253:9\\n_onJSONObjectReady/&lt;@chrome://remote/content/marionette/transport.js:500:20\\n&quot;}}&#x27;}<br/><br/>    def check_response(self, response: Dict[str, Any]) -&gt; None:<br/>        &quot;&quot;&quot;Checks that a JSON response from the WebDriver does not have an<br/>        error.<br/>    <br/>        :Args:<br/>         - response - The JSON response from the WebDriver server as a dictionary<br/>           object.<br/>    <br/>        :Raises: If the response contains an error message.<br/>        &quot;&quot;&quot;<br/>        status = response.get(&quot;status&quot;, None)<br/>        if not status or status == ErrorCode.SUCCESS:<br/>            return<br/>        value = None<br/>        message = response.get(&quot;message&quot;, &quot;&quot;)<br/>        screen: str = response.get(&quot;screen&quot;, &quot;&quot;)<br/>        stacktrace = None<br/>        if isinstance(status, int):<br/>            value_json = response.get(&quot;value&quot;, None)<br/>            if value_json and isinstance(value_json, str):<br/>                import json<br/>    <br/>                try:<br/>                    value = json.loads(value_json)<br/>                    if len(value.keys()) == 1:<br/>                        value = value[&quot;value&quot;]<br/>                    status = value.get(&quot;error&quot;, None)<br/>                    if not status:<br/>                        status = value.get(&quot;status&quot;, ErrorCode.UNKNOWN_ERROR)<br/>                        message = value.get(&quot;value&quot;) or value.get(&quot;message&quot;)<br/>                        if not isinstance(message, str):<br/>                            value = message<br/>                            message = message.get(&quot;message&quot;)<br/>                    else:<br/>                        message = value.get(&quot;message&quot;, None)<br/>                except ValueError:<br/>                    pass<br/>    <br/>        exception_class: Type[WebDriverException]<br/>        if status in ErrorCode.NO_SUCH_ELEMENT:<br/>            exception_class = NoSuchElementException<br/>        elif status in ErrorCode.NO_SUCH_FRAME:<br/>            exception_class = NoSuchFrameException<br/>        elif status in ErrorCode.NO_SUCH_SHADOW_ROOT:<br/>            exception_class = NoSuchShadowRootException<br/>        elif status in ErrorCode.NO_SUCH_WINDOW:<br/>            exception_class = NoSuchWindowException<br/>        elif status in ErrorCode.STALE_ELEMENT_REFERENCE:<br/>            exception_class = StaleElementReferenceException<br/>        elif status in ErrorCode.ELEMENT_NOT_VISIBLE:<br/>            exception_class = ElementNotVisibleException<br/>        elif status in ErrorCode.INVALID_ELEMENT_STATE:<br/>            exception_class = InvalidElementStateException<br/>        elif (<br/>            status in ErrorCode.INVALID_SELECTOR<br/>            or status in ErrorCode.INVALID_XPATH_SELECTOR<br/>            or status in ErrorCode.INVALID_XPATH_SELECTOR_RETURN_TYPER<br/>        ):<br/>            exception_class = InvalidSelectorException<br/>        elif status in ErrorCode.ELEMENT_IS_NOT_SELECTABLE:<br/>            exception_class = ElementNotSelectableException<br/>        elif status in ErrorCode.ELEMENT_NOT_INTERACTABLE:<br/>            exception_class = ElementNotInteractableException<br/>        elif status in ErrorCode.INVALID_COOKIE_DOMAIN:<br/>            exception_class = InvalidCookieDomainException<br/>        elif status in ErrorCode.UNABLE_TO_SET_COOKIE:<br/>            exception_class = UnableToSetCookieException<br/>        elif status in ErrorCode.TIMEOUT:<br/>            exception_class = TimeoutException<br/>        elif status in ErrorCode.SCRIPT_TIMEOUT:<br/>            exception_class = TimeoutException<br/>        elif status in ErrorCode.UNKNOWN_ERROR:<br/>            exception_class = WebDriverException<br/>        elif status in ErrorCode.UNEXPECTED_ALERT_OPEN:<br/>            exception_class = UnexpectedAlertPresentException<br/>        elif status in ErrorCode.NO_ALERT_OPEN:<br/>            exception_class = NoAlertPresentException<br/>        elif status in ErrorCode.IME_NOT_AVAILABLE:<br/>            exception_class = ImeNotAvailableException<br/>        elif status in ErrorCode.IME_ENGINE_ACTIVATION_FAILED:<br/>            exception_class = ImeActivationFailedException<br/>        elif status in ErrorCode.MOVE_TARGET_OUT_OF_BOUNDS:<br/>            exception_class = MoveTargetOutOfBoundsException<br/>        elif status in ErrorCode.JAVASCRIPT_ERROR:<br/>            exception_class = JavascriptException<br/>        elif status in ErrorCode.SESSION_NOT_CREATED:<br/>            exception_class = SessionNotCreatedException<br/>        elif status in ErrorCode.INVALID_ARGUMENT:<br/>            exception_class = InvalidArgumentException<br/>        elif status in ErrorCode.NO_SUCH_COOKIE:<br/>            exception_class = NoSuchCookieException<br/>        elif status in ErrorCode.UNABLE_TO_CAPTURE_SCREEN:<br/>            exception_class = ScreenshotException<br/>        elif status in ErrorCode.ELEMENT_CLICK_INTERCEPTED:<br/>            exception_class = ElementClickInterceptedException<br/>        elif status in ErrorCode.INSECURE_CERTIFICATE:<br/>            exception_class = InsecureCertificateException<br/>        elif status in ErrorCode.INVALID_COORDINATES:<br/>            exception_class = InvalidCoordinatesException<br/>        elif status in ErrorCode.INVALID_SESSION_ID:<br/>            exception_class = InvalidSessionIdException<br/>        elif status in ErrorCode.UNKNOWN_METHOD:<br/>            exception_class = UnknownMethodException<br/>        else:<br/>            exception_class = WebDriverException<br/>        if not value:<br/>            value = response[&quot;value&quot;]<br/>        if isinstance(value, str):<br/>            raise exception_class(value)<br/>        if message == &quot;&quot; and &quot;message&quot; in value:<br/>            message = value[&quot;message&quot;]<br/>    <br/>        screen = None  # type: ignore[assignment]<br/>        if &quot;screen&quot; in value:<br/>            screen = value[&quot;screen&quot;]<br/>    <br/>        stacktrace = None<br/>        st_value = value.get(&quot;stackTrace&quot;) or value.get(&quot;stacktrace&quot;)<br/>        if st_value:<br/>            if isinstance(st_value, str):<br/>                stacktrace = st_value.split(&quot;\n&quot;)<br/>            else:<br/>                stacktrace = []<br/>                try:<br/>                    for frame in st_value:<br/>                        line = frame.get(&quot;lineNumber&quot;, &quot;&quot;)<br/>                        file = frame.get(&quot;fileName&quot;, &quot;&lt;anonymous&gt;&quot;)<br/>                        if line:<br/>                            file = f&quot;{file}:{line}&quot;<br/>                        meth = frame.get(&quot;methodName&quot;, &quot;&lt;anonymous&gt;&quot;)<br/>                        if &quot;className&quot; in frame:<br/>                            meth = f&quot;{frame[&#x27;className&#x27;]}.{meth}&quot;<br/>                        msg = &quot;    at %s (%s)&quot;<br/>                        msg = msg % (meth, file)<br/>                        stacktrace.append(msg)<br/>                except TypeError:<br/>                    pass<br/>        if exception_class == UnexpectedAlertPresentException:<br/>            alert_text = None<br/>            if &quot;data&quot; in value:<br/>                alert_text = value[&quot;data&quot;].get(&quot;text&quot;)<br/>            elif &quot;alert&quot; in value:<br/>                alert_text = value[&quot;alert&quot;].get(&quot;text&quot;)<br/>            raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here<br/>&gt;       raise exception_class(message, screen, stacktrace)<br/><span class="error">E       selenium.common.exceptions.NoSuchWindowException: Message: Browsing context has been discarded</span><br/><span class="error">E       Stacktrace:</span><br/><span class="error">E       WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5</span><br/><span class="error">E       NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.jsm:437:5</span><br/><span class="error">E       assert.that/&lt;@chrome://remote/content/shared/webdriver/Assert.jsm:435:13</span><br/><span class="error">E       assert.open@chrome://remote/content/shared/webdriver/Assert.jsm:143:4</span><br/><span class="error">E       GeckoDriver.prototype.close@chrome://remote/content/marionette/driver.js:2053:10</span><br/><span class="error">E       despatch@chrome://remote/content/marionette/server.js:306:40</span><br/><span class="error">E       execute@chrome://remote/content/marionette/server.js:279:16</span><br/><span class="error">E       onPacket/&lt;@chrome://remote/content/marionette/server.js:252:20</span><br/><span class="error">E       onPacket@chrome://remote/content/marionette/server.js:253:9</span><br/><span class="error">E       _onJSONObjectReady/&lt;@chrome://remote/content/marionette/transport.js:500:20</span><br/><br/>venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py:245: NoSuchWindowException<br/> ------------------------------Captured stdout call------------------------------ <br/>row= 1
 col= 7
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     test_searchCustByemail:test_searchCustbByemail.py:29 --------Test_004_SearchCustByemail---------------------
-INFO     test_searchCustByemail:test_searchCustbByemail.py:30 ----------verfying test_search_CustByemail------------------------
-INFO     test_searchCustByemail:test_searchCustbByemail.py:36 ----------start of searchcustByemail test------------
-INFO     test_searchCustByemail:test_searchCustbByemail.py:49 -----test_search_CustByemail is passed----------<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">TestCases/test_updateCust.py::Test_005_updateCust::test_updateCust</td>
-          <td class="col-duration">61.49</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> ------------------------------Captured stdout call------------------------------ <br/>×
-The customer has been updated successfully.
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     test_updateCust:test_updateCust.py:32 --------Test_005_updateCust---------------------
-INFO     test_updateCust:test_updateCust.py:33 ----------verfying test_updateCust------------------------
-INFO     test_updateCust:test_updateCust.py:39 ----------start of test_updateCust test------------
-INFO     test_updateCust:test_updateCust.py:59 ----test updatecust --test --is- paased---<br/></div></td></tr></tbody></table></body></html>
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     test_searchCustByemail:test_searchCustbByemail.py:31 --------Test_004_SearchCustByemail---------------------
+INFO     test_searchCustByemail:test_searchCustbByemail.py:32 ----------verfying test_search_CustByemail------------------------
+INFO     test_searchCustByemail:test_searchCustbByemail.py:38 ----------start of searchcustByemail test------------
+ERROR    test_searchCustByemail:test_searchCustbByemail.py:55 --------test_search_CustByemail is failed-----------------------<br/></div></td></tr></tbody></table></body></html>
